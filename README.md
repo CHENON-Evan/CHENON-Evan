@@ -1,5 +1,4 @@
 ### Développeur Web
-:white_check_mark: Prenez en main votre formation de développeur web  
 :white_check_mark: [Transformez une maquette en site web avec HTML & CSS](https://github.com/CHENON-Evan/Transformez_une_maquette_en_site_web_avec_html_css-Developpeur_web)  
 :white_check_mark: [Dynamisez une page web avec des animations CSS](https://github.com/CHENON-Evan/Dynamisez_une_page_web_avec_des_animations_CSS-Developpeur_web)  
 :white_check_mark: [Optimisez un site web existant](https://github.com/CHENON-Evan/Optimisez_un_site_web_existant-Developpeur_web)  
@@ -8,9 +7,6 @@
 :white_check_mark: [Créez une application web de location immobilière avec React](https://github.com/CHENON-Evan/Creez_une_application_web_de_location_immobilire_avec_React-Developpeur_web)
 
 ### Développer d'application (JavaScript / React)
-:white_check_mark: Prenez en main votre formation front-end  
-:white_check_mark: [Transformez une maquette en site web avec HTML & CSS](https://github.com/CHENON-Evan/Transformez_une_maquette_en_site_web_avec_html_css-Developpeur_Javascript_React)   
-:white_check_mark: Dynamisez une page web avec des animation CSS  
 :black_large_square: Créez une landing page avec JavaScript  
 :black_large_square: Testez vos compétences : les langages du Web  
 :black_large_square: Créez un site accessible pour une plateforme de photographes  
