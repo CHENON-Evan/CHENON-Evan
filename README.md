@@ -6,8 +6,8 @@
 :white_check_mark: [Construisez une API sécurisée pour une application d'avis gastronomiques](https://github.com/CHENON-Evan/Construisez_une_API_securise_pour_une_application_d_avis_gastronomiques-Developpeur_web)  
 :white_check_mark: [Créez une application web de location immobilière avec React](https://github.com/CHENON-Evan/Creez_une_application_web_de_location_immobilire_avec_React-Developpeur_web)
 
-### Développer d'application (JavaScript / React)
-:black_large_square: Créez une landing page avec JavaScript  
+### Développeur d'application (JavaScript / React)
+:black_large_square: [Créez une landing page avec JavaScript](https://github.com/CHENON-Evan/Creez_une_landing_page_avec_JavaScript-Developpeur_d_application_JavaScript_React)  
 :black_large_square: Testez vos compétences : les langages du Web  
 :black_large_square: Créez un site accessible pour une plateforme de photographes  
 :black_large_square: Développez un algorithme de recherche en JavaScript  
